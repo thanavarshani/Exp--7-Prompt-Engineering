@@ -56,7 +56,22 @@ Step 7: Compare the Results
 Compare original and generated images.
 Document differences and improvements.
 
-Output:
+
+## Prompt given:(Gemini)
+A black and white coloring page for kids featuring a cute, smiling cartoon butterfly landing on large flowers.
+ * *Foreground:* A large, cheerful butterfly with big, expressive eyes, a friendly smile, and curly antennae is positioned in the center, facing left. Its wings are spread wide, showing simple oval and circle patterns. It is hovering just above or landing on three large, simple-petaled daisies lining the bottom of the frame. Small tufts of grass are scattered around the flowers.
+ * *Background:* A simple outdoor landscape with rolling hills split by clean horizon lines.
+ * *Sky:* A single fluffy cartoon cloud is in the top left, and a bright, simple cartoon sun with pointed rays is in the top right corner.
+ * *Style:* Pure line art, clean and bold black outlines with no shading, gradient, or color. The entire composition should have a playful, clear, and easy-to-color layout suitable for young children. A clean white border framing the scene.
+
+## output generated from Gemini:
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/f7771d1f-a3ed-4a5a-94c8-f843b5b47260" />
+
+## Output generated from Chatgpt:
+<img width="1102" height="1427" alt="image" src="https://github.com/user-attachments/assets/c3fb4240-a034-44c4-baf2-f70a3d63100f" />
+
+
+
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
